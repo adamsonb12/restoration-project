@@ -1,1 +1,0 @@
-window.location = "https://latterdaycommandments.herokuapp.com/index.html";
